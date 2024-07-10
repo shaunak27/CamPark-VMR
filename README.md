@@ -28,7 +28,7 @@ This released code supports pre-training, fine-tuning, and evaluation of the mod
 1. Clone this repo
 
 ```
-git clone https://github.com/vasvi1203/CamPark-VMR.git
+git clone https://github.com/shaunak27/CamPark-VMR.git
 ```
 
 2. Prepare feature files
@@ -106,3 +106,7 @@ Following is the description of the different fields in the JSON file:
 ## LICENSE
 All the code are under [MIT](https://opensource.org/licenses/MIT) license, see [LICENSE](./LICENSE).
  
+## Contributors
+1. [Shaunak Halbe](https://github.com/shaunak27) (Primary)
+2. [Vasvi Gupta](https://github.com/vasvi1203)
+3. [Viren Patil](#)
